@@ -48,7 +48,7 @@ func newUS902Band(repeaterCompatible bool) (Band, error) {
 	}
 
 	band := Band{
-		DefaultTXPower:   20,
+		DefaultTXPower:   27,
 		ImplementsCFlist: false,
 		RX2Frequency:     923300000,
 		RX2DataRate:      8,
