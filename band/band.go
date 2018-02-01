@@ -8,7 +8,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/brocaar/lorawan"
+	"github.com/Frankz/lorawan"
 )
 
 // Name defines the band-name type.

@@ -4,7 +4,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/brocaar/lorawan"
+	"github.com/Frankz/lorawan"
 )
 
 func newAU915Band(repeaterCompatible bool) (Band, error) {
@@ -68,8 +68,8 @@ func newAU915Band(repeaterCompatible bool) (Band, error) {
 
 		DataRates: []DataRate{
 			{Modulation: LoRaModulation, SpreadFactor: 12, Bandwidth: 125}, //0
-			{Modulation: LoRaModulation, SpreadFactor: 11, Bandwidth: 125},  //1
-			{Modulation: LoRaModulation, SpreadFactor: 10, Bandwidth: 125},  //2
+			{Modulation: LoRaModulation, SpreadFactor: 11, Bandwidth: 125}, //1
+			{Modulation: LoRaModulation, SpreadFactor: 10, Bandwidth: 125}, //2
 			{Modulation: LoRaModulation, SpreadFactor: 9, Bandwidth: 125},  //3
 			{Modulation: LoRaModulation, SpreadFactor: 8, Bandwidth: 125},  //4
 			{Modulation: LoRaModulation, SpreadFactor: 7, Bandwidth: 125},  //5

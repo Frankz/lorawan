@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/brocaar/lorawan"
+	"github.com/Frankz/lorawan"
 	. "github.com/smartystreets/goconvey/convey"
 )
 

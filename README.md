@@ -1,7 +1,7 @@
 # LoRaWAN (Go)
 
-[![Build Status](https://travis-ci.org/brocaar/lorawan.svg?branch=master)](https://travis-ci.org/brocaar/lorawan)
-[![GoDoc](https://godoc.org/github.com/brocaar/lorawan?status.svg)](https://godoc.org/github.com/brocaar/lorawan)
+[![Build Status](https://travis-ci.org/Frankz/lorawan.svg?branch=master)](https://travis-ci.org/Frankz/lorawan)
+[![GoDoc](https://godoc.org/github.com/Frankz/lorawan?status.svg)](https://godoc.org/github.com/Frankz/lorawan)
 
 Package lorawan provides structures and tools to read and write LoraWAN
 messages from and to a slice of bytes.
@@ -80,7 +80,7 @@ configuration. These can be found in the ``band`` sub-package.
 
 ## Documentation
 
-See https://godoc.org/github.com/brocaar/lorawan. There is also an examples
+See https://godoc.org/github.com/Frankz/lorawan. There is also an examples
 section with usage examples.
 
 ## Support

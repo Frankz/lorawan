@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/brocaar/lorawan"
+	"github.com/Frankz/lorawan"
 	"github.com/pkg/errors"
 )
 
