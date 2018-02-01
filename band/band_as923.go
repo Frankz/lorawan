@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/brocaar/lorawan"
+	"github.com/Frankz/lorawan"
 )
 
 func newAS923Band(repeaterCompatible bool, dt lorawan.DwellTime) (Band, error) {

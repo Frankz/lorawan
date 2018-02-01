@@ -1,6 +1,6 @@
 package band
 
-import "github.com/brocaar/lorawan"
+import "github.com/Frankz/lorawan"
 import "sort"
 import "time"
 

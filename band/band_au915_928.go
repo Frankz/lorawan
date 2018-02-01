@@ -4,7 +4,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/brocaar/lorawan"
+	"github.com/Frankz/lorawan"
 )
 
 func newAU915Band(repeaterCompatible bool) (Band, error) {
